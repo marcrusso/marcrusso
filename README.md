@@ -9,8 +9,6 @@
 
 </div>
 
-### Hi, I'm Marco 👋
-
 I'm a molecular biologist and I've spent about ten years doing bioinformatics.
 
 I'm a researcher at IRCCS Azienda Ospedaliero-Universitaria di Bologna – Policlinico di Sant'Orsola, where I work on the translational use of genomic and multi-omic profiles, using machine learning and generative AI, in rare diseases and cancer.
@@ -23,15 +21,13 @@ I study how non-canonical DNA structures, mainly R-loops and G-quadruplexes, dri
 - Pan-cancer analyses of immune genes and transposable elements
 - Tool development (e.g. [DROPA](https://github.com/marcrusso/DROPA))
 
-**🛠 Main tools:** Python · R · HPC
-
 **🎓 Teaching:** I teach Bioinformatics with Programming Fundamentals at the [University of Bologna](https://www.unibo.it/en), and I tutor genomics courses and summer schools.
 
 <p>
-<a href="https://www.linkedin.com/in/marco-russo-96504264/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://orcid.org/0000-0002-0550-0608"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
-<a href="https://www.unibo.it/sitoweb/marco.russo9/en"><img src="https://img.shields.io/badge/University%20of%20Bologna-003A70?style=flat-square&logo=academia&logoColor=white" alt="University of Bologna" /></a>
-<a href="https://x.com/marco90ru"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://www.linkedin.com/in/marco-russo-96504264/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://orcid.org/0000-0002-0550-0608"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
+<a href="https://www.unibo.it/sitoweb/marco.russo9/en"><img height="28" src="https://commons.wikimedia.org/wiki/Special:Redirect/file/University_of_bologna_wordmark_svg.svg" alt="University of Bologna" /></a>
+<a href="https://x.com/marco90ru"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 </p>
 
 <p>
