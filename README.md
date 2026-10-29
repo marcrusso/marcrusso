@@ -38,38 +38,40 @@ I study how non-canonical DNA structures, mainly R-loops and G-quadruplexes, dri
 
 ## 🚀 Public projects
 
-<p>A selection of research tools and code from our publications.</p>
-
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="3" valign="top">
       <h3><a href="https://github.com/marcrusso/DROPA">🧬 DROPA</a></h3>
       <p>DRIP Optimized Peak Annotator</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
         <a href="https://github.com/marcrusso/DROPA/stargazers"><img src="https://img.shields.io/github/stars/marcrusso/DROPA?style=flat-square&color=2ea043" alt="GitHub stars" /></a>
       </p>
       <a href="https://github.com/marcrusso/DROPA">Explore repository →</a>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/marcrusso/TE_SCLC_2022">🧪 TE_SCLC_2022</a></h3>
-      <p>Code repository</p>
-      <p><img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" /></p>
-      <a href="https://github.com/marcrusso/TE_SCLC_2022">Explore repository →</a>
-    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/marcrusso/Marinello_et_al_2022">🧫 Marinello_et_al_2022</a></h3>
-      <p>Code for the study</p>
-      <p><img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" /></p>
-      <a href="https://github.com/marcrusso/Marinello_et_al_2022">Explore repository →</a>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/marcrusso/TE_SCLC_2022">🧪 TE_SCLC_2022</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
+        <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell" />
+      </p>
+      <a href="https://github.com/marcrusso/TE_SCLC_2022"><img src="https://img.shields.io/badge/Code%20repository%20for-10.1186%2Fs13100--023--00290--w-2ea043?style=for-the-badge&logo=github&logoColor=white" alt="Code repository for DOI 10.1186/s13100-023-00290-w" /></a>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/marcrusso/Marinello_et_al_2022">🧫 Marinello_et_al_2022</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
+        <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell" />
+      </p>
+      <a href="https://github.com/marcrusso/Marinello_et_al_2022"><img src="https://img.shields.io/badge/Code%20repository%20for-10.1038%2Fs41416--022--01894--4-2ea043?style=for-the-badge&logo=github&logoColor=white" alt="Code repository for DOI 10.1038/s41416-022-01894-4" /></a>
+    </td>
+    <td width="33%" valign="top">
       <h3><a href="https://github.com/marcrusso/Duardo_et_al_2024">🧬 Duardo_et_al_2024</a></h3>
-      <p>Code for Duardo et al., 2024</p>
       <p><img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell" /></p>
-      <a href="https://github.com/marcrusso/Duardo_et_al_2024">Explore repository →</a>
+      <a href="https://github.com/marcrusso/Duardo_et_al_2024"><img src="https://img.shields.io/badge/Code%20repository%20for-10.1126%2Fsciadv.adm8196-2ea043?style=for-the-badge&logo=github&logoColor=white" alt="Code repository for DOI 10.1126/sciadv.adm8196" /></a>
     </td>
   </tr>
 </table>
