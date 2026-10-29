@@ -59,8 +59,8 @@ I study how non-canonical DNA structures, mainly R-loops and G-quadruplexes, dri
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=marcrusso&show_icons=true&theme=github_dark&hide_border=true" alt="Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcrusso&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=marcrusso&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" alt="GitHub stats (cached daily)" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcrusso&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Top languages (cached daily)" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="" />
 
