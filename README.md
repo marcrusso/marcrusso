@@ -13,7 +13,7 @@
 
 I'm a molecular biologist and I've spent about ten years doing bioinformatics.
 
-I'm a researcher at [IRCCS Azienda Ospedaliero-Universitaria di Bologna – Policlinico di Sant'Orsola](https://www.unibo.it/sitoweb/marco.russo9/en), where I work on the translational use of genomic and multi-omic profiles, using machine learning and generative AI, in rare diseases and cancer.
+I'm a researcher at IRCCS Azienda Ospedaliero-Universitaria di Bologna – Policlinico di Sant'Orsola, where I work on the translational use of genomic and multi-omic profiles, using machine learning and generative AI, in rare diseases and cancer.
 
 I study how non-canonical DNA structures, mainly R-loops and G-quadruplexes, drive DNA damage, genome instability and innate immune responses in cancer cells. Recently I've been working on the mutational signatures (indels and structural variants) left by topoisomerase I poisons in colorectal cancer.
 
