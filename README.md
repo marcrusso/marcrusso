@@ -9,13 +9,35 @@
 
 </div>
 
-## 🧬 About me
+### Hi, I'm Marco 👋
 
-I'm a bioinformatician working on genomics and computational biology, building tools and analysis pipelines for high-throughput sequencing data.
+I'm a molecular biologist and I've spent about ten years doing bioinformatics.
+
+I'm a researcher at [IRCCS Azienda Ospedaliero-Universitaria di Bologna – Policlinico di Sant'Orsola](https://www.unibo.it/sitoweb/marco.russo9/en), where I work on the translational use of genomic and multi-omic profiles, using machine learning and generative AI, in rare diseases and cancer.
+
+I study how non-canonical DNA structures, mainly R-loops and G-quadruplexes, drive DNA damage, genome instability and innate immune responses in cancer cells. Recently I've been working on the mutational signatures (indels and structural variants) left by topoisomerase I poisons in colorectal cancer.
+
+**🔬 What I do**
+- Genomic, transcriptomic and epigenomic data analysis and integration
+- Mutational signature analysis
+- Pan-cancer analyses of immune genes and transposable elements
+- Tool development (e.g. [DROPA](https://github.com/marcrusso/DROPA))
+
+**🛠 Main tools:** Python · R · HPC
+
+**🎓 Teaching:** I teach Bioinformatics with Programming Fundamentals at the [University of Bologna](https://www.unibo.it/en), and I tutor genomics courses and summer schools.
+
+<p>
+<a href="https://www.linkedin.com/in/marco-russo-96504264/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://orcid.org/0000-0002-0550-0608"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
+<a href="https://www.unibo.it/sitoweb/marco.russo9/en"><img src="https://img.shields.io/badge/University%20of%20Bologna-003A70?style=flat-square&logo=academia&logoColor=white" alt="University of Bologna" /></a>
+<a href="https://x.com/marco90ru"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+</p>
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+<img src="https://img.shields.io/badge/HPC-5B4B8A?style=for-the-badge&logo=linux&logoColor=white" alt="HPC" />
 <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
