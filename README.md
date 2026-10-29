@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Marco%20Russo&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Bioinformatician&descAlignY=58&descSize=22" alt="Marco Russo banner" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=520&lines=Genomics+%26+Bioinformatics;Transposable+elements+%26+R-loops;Python+%7C+R+%7C+Shell)](https://github.com/marcrusso)
-
 ![Profile views](https://komarev.com/ghpvc/?username=marcrusso&color=2ea043&style=flat-square)
 [![Followers](https://img.shields.io/github/followers/marcrusso?style=flat-square&logo=github&color=2ea043)](https://github.com/marcrusso?tab=followers)
 
