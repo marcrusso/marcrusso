@@ -36,30 +36,40 @@ I study how non-canonical DNA structures, mainly R-loops and G-quadruplexes, dri
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## 📌 Pinned
+## 🚀 Public projects
 
-<a href="https://github.com/marcrusso/DROPA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcrusso&repo=DROPA&theme=github_dark&hide_border=true" alt="DROPA" />
-</a>
+<p>A selection of research tools and code from our publications.</p>
 
-> **DROPA** — DRIP Optimized Peak Annotator
-
-## 📚 Public repositories
-
-| Repository | Description | Language |
-|---|---|---|
-| [**DROPA**](https://github.com/marcrusso/DROPA) ⭐ | DRIP Optimized Peak Annotator | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [**TE_SCLC_2022**](https://github.com/marcrusso/TE_SCLC_2022) | Code repository | ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) |
-| [**Marinello_et_al_2022**](https://github.com/marcrusso/Marinello_et_al_2022) | Code | ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) |
-| [**Duardo_et_al_2024**](https://github.com/marcrusso/Duardo_et_al_2024) | Code for Duardo et al., 2024 | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
-
-## 📊 GitHub stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=marcrusso&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" alt="GitHub stats (cached daily)" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcrusso&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Top languages (cached daily)" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="" />
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/marcrusso/DROPA">🧬 DROPA</a></h3>
+      <p>DRIP Optimized Peak Annotator</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <a href="https://github.com/marcrusso/DROPA/stargazers"><img src="https://img.shields.io/github/stars/marcrusso/DROPA?style=flat-square&color=2ea043" alt="GitHub stars" /></a>
+      </p>
+      <a href="https://github.com/marcrusso/DROPA">Explore repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/marcrusso/TE_SCLC_2022">🧪 TE_SCLC_2022</a></h3>
+      <p>Code repository</p>
+      <p><img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" /></p>
+      <a href="https://github.com/marcrusso/TE_SCLC_2022">Explore repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/marcrusso/Marinello_et_al_2022">🧫 Marinello_et_al_2022</a></h3>
+      <p>Code for the study</p>
+      <p><img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" /></p>
+      <a href="https://github.com/marcrusso/Marinello_et_al_2022">Explore repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/marcrusso/Duardo_et_al_2024">🧬 Duardo_et_al_2024</a></h3>
+      <p>Code for Duardo et al., 2024</p>
+      <p><img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell" /></p>
+      <a href="https://github.com/marcrusso/Duardo_et_al_2024">Explore repository →</a>
+    </td>
+  </tr>
+</table>
